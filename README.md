@@ -9,4 +9,3 @@ This project predicts house prices in Malaysia based on features like location, 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ismailtech2/house-price-prediction.git
